@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!/usr/bin/perl
 
 # small 'fake' script to allow xterm to be found when performing tests
 # on systems that do not have it
